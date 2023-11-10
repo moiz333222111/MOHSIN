@@ -1,0 +1,85 @@
+@media only screen and (max-width: 970px) {    
+    .navlist{
+    flex-direction: column;
+}
+
+.navbar{
+    flex-direction: column;
+    transition: all 0.7s ease-out;
+    height: 447px;
+    position: sticky;
+}
+
+.box-main{
+    flex-direction: column-reverse;
+    max-width: 100%;
+}
+
+.secright{
+    flex-direction: column-reverse;
+}
+
+.secleft{
+    flex-direction: column-reverse;
+}
+
+.burger{
+    display: block;
+
+}
+
+.h-nav{
+    height: 53px;
+    width: 100%;
+}
+
+.v-class{
+    opacity: 0;
+}
+
+.contact{
+    width: 85%;
+}
+
+#name{
+    width: 220px;
+}
+
+#phone{
+    width: 220px;
+}
+
+#email{
+    width: 220px;
+}
+
+.textbig{
+    font-size: 33px;
+    text-align: center;
+}
+
+.firstsection{
+    width: 100%;
+}
+
+.copyright{
+    width: 100%;
+}
+
+.button{
+    text-align: center;
+}
+
+.paras{
+    padding: 0%;
+}
+
+.paras2{
+    padding: 0%;
+}
+
+.paras3{
+    padding: 0%;
+}
+
+}
